@@ -1,0 +1,21 @@
+{
+  "name": "modernjs2.0-module",
+  "version": "1.0.0",
+  "description": "learnings from Brad Traversy's course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "learn-js-2.0"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Vikas N",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
